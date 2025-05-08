@@ -1,4 +1,3 @@
-markdown
 # 🎛️ Panduan Instalasi Preset After Effects (.ffx)
 
 Panduan ini menjelaskan cara **mengunduh, memasang, dan menggunakan** preset animasi After Effects berformat `.ffx`.
