@@ -7,7 +7,7 @@ Panduan ini menjelaskan cara **mengunduh, memasang, dan menggunakan** preset ani
 
 ## 📥 Cara Download
 
-1. Unduh file preset `Slider Control Wiggle.ffx` dari repo ini atau link yang diberikan.
+1. Unduh file preset `Control Expression Wiggle.ffx` dari repo ini atau link yang diberikan.
 2. Pastikan format file benar (Slider Control Wiggle.ffx`).
 
 ---
@@ -16,7 +16,7 @@ Panduan ini menjelaskan cara **mengunduh, memasang, dan menggunakan** preset ani
 
 ### 🪟 Windows
 
-Salin file `Slider Control Wiggle.ffx` ke folder:
+Salin file `Control Expression Wiggle.ffx` ke folder:
 
 ```
 
@@ -46,7 +46,7 @@ Documents/Adobe/After Effects \[versi kamu]/User Presets
 4. Cari nama preset kamu
 5. Tarik preset ke layer  
    atau  
-   Gunakan menu: **Animation → Apply Animation Preset** → pilih file `Slider Control Wiggle.ffx`-nya
+   Gunakan menu: **Animation → Apply Animation Preset** → pilih file `Control Expression Wiggle.ffx`-nya
 
 ---
 
@@ -62,7 +62,7 @@ Documents/Adobe/After Effects \[versi kamu]/User Presets
 
 | Nama File         | Deskripsi                                             |
 |-------------------|-------------------------------------------------------|
-| `Slider Control Wiggle.ffx`  | Efek wiggle dengan kontrol checkbox, frekuensi, dan amplitudo |
+| `Control Expression Wiggle.ffx`  | Efek wiggle dengan kontrol checkbox, frekuensi, dan amplitudo |
 
 ---
 
