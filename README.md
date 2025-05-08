@@ -1,5 +1,3 @@
-Siap Bang AL! Nih versi `README.md`-nya dalam **Bahasa Indonesia**, cocok buat repo GitHub preset `.ffx` After Effects lo:
-
 ---
 
 ```markdown
