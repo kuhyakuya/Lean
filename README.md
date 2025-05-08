@@ -69,5 +69,3 @@ Documents/Adobe/After Effects \[versi kamu]/User Presets
 Selamat berkarya & selamat ngulik! ✨
 ```
 
----
-
